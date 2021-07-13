@@ -1,5 +1,6 @@
+
 # PDF Cracker
-Crack Any Encrypted/Password Protected PDF File Using PDF-CRACKER
+Crack Any Encrypted/Password Protected PDF File Using PDF-CRACKER. This is a fork of [Fa1c0n35 PDF-CRACKER](https://github.com/Fa1c0n35/pdf-cracker) with multicore support.
 
 ---
 ### So Firstly What Is A PDF File?
@@ -31,28 +32,6 @@ cd pdf-cracker/
 python3 pdfcracker.py
 ```
 ---
-### Some Preview Of Program
-<img src="https://github.com/marshal41/assets/blob/main/pdf-cracker/image2.png">
-<img src="https://github.com/marshal41/assets/blob/main/pdf-cracker/image.jpg">
+### COMPUTER MISUSE ACT 1990 - SECTION 3A
+This software program has been specifically written for the purpose of legitimate penetration testing and should not be used for any other unauthorised or nefarious reasons.
 
----
-### Faced Issues? Email us at [marshal41.help@gmail.com](mailto:marshal41.help@gmail.com)
-
----
-### Around The Web:
-
-[<img align="left" alt="" width="40px" src="https://github.com/marshal41/marshal41/blob/main/assets/social-media/web.png" />][website]
-[<img align="left" width="40px" src="https://github.com/marshal41/marshal41/blob/main/assets/social-media/twitter.png" />][twitter]
-[<img align="left" width="40px" src="https://github.com/marshal41/marshal41/blob/main/assets/social-media/instagram.png" />][instagram]
-[<img align="left" width="40px" src="https://github.com/marshal41/marshal41/blob/main/assets/social-media/github.png" />][github]
-[<img align="left" width="40px" src="https://github.com/marshal41/marshal41/blob/main/assets/social-media/youtube.png" />][youtube]
-<br />
-
----
-# END
-
-[website]: https://marshal41.github.io
-[twitter]: https://twitter.com/41marshal
-[youtube]: https://www.youtube.com/channel/UCYSgcqLjqeip37Bla0Pk72Q?sub_confirmation=yes
-[instagram]: https://www.instagram.com/41marshal
-[github]: https://www.github.com/marshal41
